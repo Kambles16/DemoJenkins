@@ -1,0 +1,1 @@
+Echo "This is test of git to Jenkins execution"
